@@ -4,7 +4,9 @@ import Parser from 'html-react-parser';
 
 import Layout from "../components/layout"
 import Nav from '../components/navigation'
+import Banner from '../components/non-front-banner';
 import { Helmet } from "react-helmet"
+
 
 const Pp = (props) => {
   const FetchMarkDown = useStaticQuery(graphql`
@@ -26,6 +28,9 @@ const Pp = (props) => {
     <Layout>
       <Helmet title="Privacy Policy | Phillip Bryson"/>
       <Nav pathExt={props.path} />
+      <Banner
+        spanFirst={`Privacy`}
+        contextHeading={`Policy`} />
       <div className="container">
           <div id="privacy-policy-content">
               <div className="">{Parser(data.html)}</div>
