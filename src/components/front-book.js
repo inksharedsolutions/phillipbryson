@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import FrontBook from '../static/book/book-cover.png'
+import FrontBook from '../static/book/book-cover-min.png'
 
 const MidBook = (props) => {
     return (

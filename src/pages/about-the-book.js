@@ -5,7 +5,7 @@ import Layout from '../components/layout';
 import Nav from '../components/navigation';
 import Banner from '../components/non-front-banner';
 import BookInfo from '../components/book-info/book-info'
-import Book1 from '../static/book/book-cover.png'
+import Book1 from '../static/book/book-cover-min.png'
 import { DiscussionEmbed } from "disqus-react"
 
 const Book = (props) => {
