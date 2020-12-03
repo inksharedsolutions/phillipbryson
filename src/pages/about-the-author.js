@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet';
 import Layout from '../components/layout';
 import Nav from '../components/navigation';
 import Banner from '../components/non-front-banner';
-import AuthorImg from '../static/author/author-photo.png'
+import AuthorImg from '../static/author/author-profile1.jpg'
 
 const Author = (props) => {
     return(

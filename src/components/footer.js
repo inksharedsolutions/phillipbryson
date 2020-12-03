@@ -113,7 +113,12 @@ const Footer = () => {
                         <h5>Newsletter</h5>
                         <p>Stay up to date with the latest from me</p>
                         <Newsletter />
-                    </div>
+                        <p>For more info, visit&nbsp;
+                            <a target="_blank" href="https://socialismsissuesrevealed.com/" rel="noreferrer">
+                                socialismsissuesrevealed.com
+                            </a>
+                        </p>
+                    </div><br />
                 </div>
 
                 <div className="two-grid-column" id="lower-footer">

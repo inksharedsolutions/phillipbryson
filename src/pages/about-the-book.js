@@ -51,7 +51,7 @@ const Book = (props) => {
                                     </p>
 
                                     <p>
-                                    In a career extending beyong forty years, he published well over one hundred academic papers and ten books. His publications have almost exclusively focused on issues of socialist economic theories and economics.
+                                    In a career extending beyond forty years, he published well over one hundred academic papers and ten books. His publications have almost exclusively focused on issues of socialist economic theories and economies.
                                     </p>
 
                                     <p>
