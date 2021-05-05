@@ -54,6 +54,8 @@ const Author = (props) => {
                             <q>
                             The scope of Bryson’s treatment is dizzying, the erudition nearly unbelievable, and his scholarly rigor impressive. . . This is a magisterial work, encyclopedic and astute.
                             </q>
+
+                            <span className="ata-span-fx"> - Kirkus Review </span>
                             
                             <p>
                                 <span className="author-name">

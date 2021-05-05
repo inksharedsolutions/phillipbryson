@@ -47,7 +47,7 @@ const Book = (props) => {
                                     </p>
 
                                     <p>
-                                    Phillip J. Bryson was a professor of economics emeritus, having retired from the Marriott School of Management at Brigham Young University. He also taught at the University of Arizona and at Ohio State University, where he received a PhD in economics.
+                                    Phillip J. Bryson is a professor of economics emeritus, having retired from the Marriott School of Management at Brigham Young University. He also taught at the University of Arizona and at Ohio State University, where he received a PhD in economics.
                                     </p>
 
                                     <p>
@@ -55,7 +55,7 @@ const Book = (props) => {
                                     </p>
 
                                     <p>
-                                    He and his wife, Pat, live near McKinney, Texas, when it's cold and in Provo, Utah, when it's warm. They spend time with their seven children, twenty-five grandchildren, and eight great grandchildren.
+                                    He and his wife, Pat, live near McKinney, Texas, when it's cold and in Provo, Utah, when it's warm. They spend time with their seven children, twenty-five grandchildren, and eleven great grandchildren.
                                     </p>
                                             
                                 `,

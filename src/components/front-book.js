@@ -11,7 +11,7 @@ const MidBook = (props) => {
                     <div className="grid-two-columns" id="wrapper-two-books" >
 
                         <div className="book-wraps" >
-                            <img src={FrontBook} data-aos="fade-up" data-aos-duration="3000" />
+                            <img src={FrontBook} data-aos="fade-up" data-aos-duration="3000" alt="Socialism Revealed"/>
                         </div>
 
                         <div className="content-wraps">
